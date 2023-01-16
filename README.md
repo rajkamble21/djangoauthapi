@@ -14,5 +14,7 @@ signin URL http://127.0.0.1:8000/api/user/login/
 
 Copy that access token and paste infront of authorization as shown in screenshot
 
+profile URL http://127.0.0.1:8000/api/user/profile/
+
 ![Screenshot (396)](https://user-images.githubusercontent.com/70090963/212720463-c13f8d59-525c-467e-9de9-8dbea59e8092.png)
 
